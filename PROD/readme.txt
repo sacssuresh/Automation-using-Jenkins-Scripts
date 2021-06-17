@@ -1,0 +1,1 @@
+Date : Feb 9th, 2021, Modified by : Suresh Kumar, Details : Added folder structure for QA & PROD

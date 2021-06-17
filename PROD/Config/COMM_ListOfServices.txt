@@ -1,0 +1,4 @@
+TrueHome2CommunicationServiceHost
+TrueHome2LogPusher
+TrueHome2Monitor
+TrueHome2ServiceManagerApiHost

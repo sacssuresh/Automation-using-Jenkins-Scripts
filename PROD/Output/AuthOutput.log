@@ -1,0 +1,46 @@
+**********************
+Windows PowerShell transcript start
+Start time: 20210617074813
+Username: PMELAPP\amadhusureka
+RunAs User: PMELAPP\amadhusureka
+Machine: MGMTTEST02 (Microsoft Windows NT 6.3.9600.0)
+Host Application: powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -File C:\Users\AMADHU~1\AppData\Local\Temp\jenkins6706114213226632857.ps1
+Process ID: 6236
+PSVersion: 5.1.14409.1018
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14409.1018
+BuildVersion: 10.0.14409.1018
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\JenkinsScripts\PROD\Output\AuthOutput.log
+>>>Success!
+>>>Success!
+==================================
+==================================
+Final results:1
+Final results:1
+All tests passed! Executed at : PMELAUTH03
+>>>Success!
+All tests passed! Executed at : PMELAUTH04
+
+==================================
+
+
+
+Final results:1
+All tests passed! Executed at : PMELAUTH02
+
+
+>>>Success!
+==================================
+Final results:1
+All tests passed! Executed at : PMELAUTH01
+
+
+**********************
+Windows PowerShell transcript end
+End time: 20210617074813
+**********************
