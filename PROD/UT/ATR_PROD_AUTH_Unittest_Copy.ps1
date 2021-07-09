@@ -1,5 +1,5 @@
 ﻿param(
-#[string]$destinationServer
+#[string]$destinationServer --git ver1
 )
 #get server list from config file
 $serverList = Get-Content -Path C:\JenkinsScripts\PROD\Config\AUTH_ListOfServers.txt
