@@ -1,2 +1,2 @@
-QAMELAPPS01
-QAMELAPPS02
+<server1>
+<server2>
